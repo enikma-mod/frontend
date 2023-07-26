@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  baseUrl: 'http://localhost:9000/api/',
+  baseUrl: 'https://backend-1-jclq.onrender.com/api/',
   jwt_Secret: 'vocaselect23' 
   
 };
